@@ -1,0 +1,14 @@
+[2026-10-04 12:09:18] INFO  Starting Smart Emergency Evacuation Planner...
+[2026-10-04 12:09:18] INFO  Loaded config.properties from classpath.
+[2026-10-04 12:09:18] INFO  Database connection successful.
+[2026-10-04 12:10:12] INFO  Registered new user: root
+[2026-10-04 12:10:28] INFO  User logged in: root (USER)
+[2026-10-04 12:10:59] INFO  Route computed from NorthGate to shelter North Zone School
+[2026-10-04 12:24:05] INFO  Starting Smart Emergency Evacuation Planner...
+[2026-10-04 12:24:05] INFO  Loaded config.properties from classpath.
+[2026-10-04 12:24:05] INFO  Database connection successful.
+[2026-10-04 12:24:19] INFO  User logged in: admin (ADMIN)
+[2026-10-04 12:24:58] INFO  Route computed from Harbor to shelter Harbor View Shelter
+[2026-10-04 12:31:59] INFO  Starting Smart Emergency Evacuation Planner...
+[2026-10-04 12:31:59] INFO  Loaded config.properties from classpath.
+[2026-10-04 12:32:00] INFO  Database connection successful.

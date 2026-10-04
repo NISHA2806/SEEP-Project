@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Run SEEP (Main)",
+            "request": "launch",
+            "mainClass": "com.seep.Main",
+            "projectName": "smart-emergency-evacuation-planner"
+        }
+    ]
+}

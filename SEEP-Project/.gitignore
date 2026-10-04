@@ -1,0 +1,6 @@
+target/
+bin/
+*.class
+logs/*.log
+.vscode/settings.json.bak
+.DS_Store
